@@ -165,7 +165,7 @@ good fit for the network.
 
 Here is a quick check list of what you can do and what to expect:
 
-1. Does this validator have a website, or at least some public social media account? If a validator can't make a simple Wordpress website or even use AI to create some simple website with at least one page, it might be a sign of a more serious issue.
+1. Does this validator have a website, or at least some public social media account? If a validator doesn't have someone on the team with basic programming knowledge, at least they should have a simple Wordpress website or even use AI to create some simple website with at least one page, it might be a sign of a more serious issue.
 2. Does this validator have some app or service that they provide for the network? Is there anything that makes them unique or valuable to the network? Some checklist of useful things to look for:
    1. Infrastructure (REST APIs, RPCs, Archive Nodes, Network snapshots etc...)
    2. Public resources and data ( Blockchain explorers, Node setup documentation etc...)
