@@ -73,7 +73,7 @@ not possible. But it provides a link to each other, with other evidence.
 
 ### Unjailing at almost same block height
 
-![Image of exact unjailing times](/images/image1.png)
+![Image of exact unjailing times](./images/image1.png)
 
 All of the 3 validators were jailed at similar times and usually unjailed at the same times:
 
@@ -113,8 +113,8 @@ Which suggest some heavy scripting to withdraw assets and move them to the CEX t
 management of these assets. Could also be just some good organization too but it is so strange.
 Just for the sake of the argument go to Nodedog's address [atone1s730pkrq2hxh762thw3als22st5p8jt2xjk8mj](https://thespectra.io/atomone/account/atone1s730pkrq2hxh762thw3als22st5p8jt2xjk8mj) and Stella's address [atone1rs3vdtdwq8mnnr92zsgugrrs0zue0ejn52ww02](https://thespectra.io/atomone/account/atone1rs3vdtdwq8mnnr92zsgugrrs0zue0ejn52ww02). There are also images below so you can understand it better:
 
-![Nodedog transactions](/images/nodedog-txs.png)
-![Stella transactions](/images/stella-txs.png)
+![Nodedog transactions](./images/nodedog-txs.png)
+![Stella transactions](./images/stella-txs.png)
 
 Now you might think this is from the same address but this isn't the case. Their timestamps are so close it
 looks like they are from the same address but they are not. And if you visit their address pages you can see
@@ -125,7 +125,7 @@ how much is "mirrored".
 They operated like this for a year and a half. And they also integrated into the Gnoland testnet as the
 active validators. They probably thought they could expand their operations to other chains.
 
-![Gnoland testnet chat](/images/gnoland.png)
+![Gnoland testnet chat](./images/gnoland.png)
 
 *Screenshot by NyanCat Validator*
 
