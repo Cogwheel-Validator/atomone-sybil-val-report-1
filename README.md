@@ -1,5 +1,8 @@
 # Atom One Sybil Validator Report
 
+- Last update: September, 14th 2026; Even after a month has passed, none of sybil validators have responded. Even when they were pinged to respond, they simply ignored. Until they give a clear statement as to why they did it, this validators are to be treated as malicious entity/entities from which the best course of action for now is to publicly share this and spread this information in hopes from stopping people from delegating to them.
+- Next course of action: remove them from explorers and disable staking to them if possible.
+
 ## Table of Contents
 
 - [Intro](#intro)
