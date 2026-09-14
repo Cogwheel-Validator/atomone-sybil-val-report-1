@@ -178,3 +178,8 @@ Here is a quick check list of what you can do and what to expect:
 
 While none of these steps are mandatory, they can give you a better understanding of their role and
 contribution to the network.
+
+<script type="module">
+  import mermaid from 'https://jsdelivr.net';
+  mermaid.initialize({ startOnLoad: true });
+</script>
